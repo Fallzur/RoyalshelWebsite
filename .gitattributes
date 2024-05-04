@@ -1,0 +1,2 @@
+path/to/large/file filter=lfs diff=lfs merge=lfs -text
+assets/img/portfolio/perfume-1.psd filter=lfs diff=lfs merge=lfs -text
